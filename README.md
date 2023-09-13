@@ -2,6 +2,7 @@
 A non linear control for a robot arm. The design and simulation of the robot arm was implemented.
 
 https://www.youtube.com/watch?v=o141rkJ0HUA&ab_channel=robotics_af
+![alt text][sim]
 
 ## Requierements
 
