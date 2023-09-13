@@ -10,10 +10,10 @@ https://www.youtube.com/watch?v=o141rkJ0HUA&ab_channel=robotics_af
 
 [non linear control]: ./images/kinematic_control.png
 [forward_kinematics]: ./images/robot_structure.png
-[ik1]: ./images/inverse_kinematics1.png
-[ik2]: ./images/inverse_kinematics2.png
-[ik3]: ./images/inverse_kinematics3.png
-[ik4]: ./images/inverse_kinematics4.png
+[ik1]: ./images/inverse_kinematics_1.png
+[ik2]: ./images/inverse_kinematics_2.png
+[ik3]: ./images/inverse_kinematics_3.png
+[ik4]: ./images/inverse_kinematics_4.png
 [sim]: ./images/VREP_Simulation.png
 
 
